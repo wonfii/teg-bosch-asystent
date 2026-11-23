@@ -1,0 +1,7 @@
+Instrukcje bez kodów błędów (usterki opisane objawami)
+Przydatne do wyszukiwania po objawach w RAG („woda nie odpływa”, „hałas przy wirowaniu”):
+
+- WAY32740PL (https://media3.bosch-home.com/Documents/9000670971_B.pdf) i WAY28540PL (https://media3.bosch-home.com/Documents/9000758885_A.pdf), seria 8
+- WAY288H0PL (https://media3.bosch-home.com/Documents/9001220026_A.pdf), 80 stron, najobszerniejsza
+- WLL2018EPL i inne WLL (https://media3.bosch-home.com/Documents/9001459805_A.pdf) (jedna instrukcja dla 8 modeli, przydatne przy relacji „części pasują do modeli”), WLL2428SPL (https://media3.bosch-home.com/Documents/9001459807_A.pdf)
+- WAN…: 9001339035_C (https://media3.bosch-home.com/Documents/9001339035_C.pdf), 9001123136_A (https://media3.bsh-group.com/Documents/9001123136_A.pdf)

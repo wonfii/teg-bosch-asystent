@@ -1,0 +1,21 @@
+# sekrety
+.env
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# node
+node_modules/
+
+# dane (PDF-y Boscha nie trafiają do repo)
+data/raw/*.pdf
+
+# lokalne bazy
+chroma_db/
+
+# system
+.DS_Store
